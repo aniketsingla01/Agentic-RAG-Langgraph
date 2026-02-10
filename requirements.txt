@@ -1,0 +1,15 @@
+langchain
+langchain_core
+langchain-groq
+python-dotenv
+arxiv
+wikipedia
+streamlit
+langchain-community
+langchain-text-splitters
+pypdf
+sentence-transformers
+pinecone
+langchain-huggingface
+ddgs
+langgraph
